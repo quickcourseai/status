@@ -14,26 +14,7 @@
     #   url: https://airesume.guru
     #   maxResponseTime: 5000
 
-    - name: Support (Chatwoot)
-      url: https://support.aitoolslister.com
-      expectedStatusCodes:
-        - 200
-        - 301
-        - 302
-      maxResponseTime: 10000
-
-    - name: Mattermost
-      url: https://mattermost.aitoolslister.com/api/v4/system/ping
-      maxResponseTime: 5000
-
-    - name: Umami Analytics
-      url: https://umami.aitoolslister.com
-      expectedStatusCodes:
-        - 200
-        - 301
-        - 302
-      maxResponseTime: 5000
-
+    
   status-website:
     cname: status.aitoolslister.com
     name: AI Tools Lister Status
