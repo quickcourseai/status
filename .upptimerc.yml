@@ -1,5 +1,5 @@
   # .upptimerc.yml — Upptime configuration                                            
-                                                                  
+                                                                                      
   owner: quickcourseai                                                                
   repo: status                                                                        
   user-agent: quickcourseai
@@ -14,7 +14,26 @@
     #   url: https://airesume.guru
     #   maxResponseTime: 5000
 
-    
+    - name: Support
+      url: $SUPPORT_URL
+      expectedStatusCodes:
+        - 200
+        - 301
+        - 302
+      maxResponseTime: 10000
+
+    - name: Mattermost
+      url: $MATTERMOST_URL
+      maxResponseTime: 5000
+
+    - name: Umami Analytics
+      url: $UMAMI_URL
+      expectedStatusCodes:
+        - 200
+        - 301
+        - 302
+      maxResponseTime: 5000
+
   status-website:
     cname: status.aitoolslister.com
     name: AI Tools Lister Status
@@ -29,7 +48,7 @@
         href: https://aitoolslister.com
 
   workflowSchedule:
-    uptime: "*/5 * * * *"
+    uptime: "*/15 * * * *"
     graphs: "0 0 * * *"
     responseTime: "0 23 * * *"
     staticSite: "0 1 * * *"
