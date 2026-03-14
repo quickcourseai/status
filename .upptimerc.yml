@@ -10,9 +10,10 @@
       icon: https://aitoolslister.com/favicon.ico
       maxResponseTime: 5000
 
-    # - name: ResumeGuru
-    #   url: https://airesume.guru
-    #   maxResponseTime: 5000
+    - name: ResumeGuru
+      url: https://airesume.guru/api/healthz
+      icon: https://airesume.guru/favicon.svg
+      maxResponseTime: 5000
 
 
   status-website:
