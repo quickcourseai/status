@@ -4,18 +4,20 @@
     "url": "https://aitoolslister.com/healthz",
     "icon": "https://aitoolslister.com/favicon.ico",
     "slug": "ai-tools-lister",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 703,
-    "timeDay": 913,
-    "timeWeek": 722,
-    "timeMonth": 703,
-    "timeYear": 703,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.52%",
+    "uptimeDay": "95.66%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
+    "time": 696,
+    "timeDay": 807,
+    "timeWeek": 708,
+    "timeMonth": 696,
+    "timeYear": 696,
+    "dailyMinutesDown": {
+      "2026-03-22": 63
+    }
   },
   {
     "name": "ResumeGuru",
