@@ -6,7 +6,7 @@
 
   sites:
     - name: AI Tools Lister
-      url: https://aitoolslister.com/healthz
+      url: https://aitoolslister.com/api/healthz
       icon: https://aitoolslister.com/favicon.ico
       maxResponseTime: 5000
 
