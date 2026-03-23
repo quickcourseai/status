@@ -1,7 +1,7 @@
 url: https://aitoolslister.com/healthz
-status: up
-code: 200
-responseTime: 736
-lastUpdated: 2026-03-22T23:34:57.761Z
+status: down
+code: 404
+responseTime: 753
+lastUpdated: 2026-03-23T06:00:24.956Z
 startTime: 2026-03-13T16:20:51.681Z
 generator: Upptime <https://github.com/upptime/upptime>
