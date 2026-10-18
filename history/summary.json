@@ -4,20 +4,22 @@
     "url": "https://aitoolslister.com/api/healthz",
     "icon": "https://aitoolslister.com/favicon.ico",
     "slug": "ai-tools-lister",
-    "status": "degraded",
-    "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "92.70%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.93%",
     "time": 684,
-    "timeDay": 10181,
-    "timeWeek": 2972,
-    "timeMonth": 1165,
+    "timeDay": 7042,
+    "timeWeek": 2726,
+    "timeMonth": 1153,
     "timeYear": 684,
     "dailyMinutesDown": {
       "2026-03-22": 63,
-      "2026-03-23": 51
+      "2026-03-23": 51,
+      "2026-10-18": 47,
+      "2026-10-17": 58
     }
   },
   {
@@ -31,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 768,
-    "timeDay": 480,
-    "timeWeek": 605,
-    "timeMonth": 621,
-    "timeYear": 768,
+    "time": 767,
+    "timeDay": 459,
+    "timeWeek": 584,
+    "timeMonth": 615,
+    "timeYear": 767,
     "dailyMinutesDown": {}
   },
   {
@@ -49,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 487,
-    "timeDay": 522,
-    "timeWeek": 449,
-    "timeMonth": 487,
-    "timeYear": 487,
+    "time": 488,
+    "timeDay": 525,
+    "timeWeek": 459,
+    "timeMonth": 488,
+    "timeYear": 488,
     "dailyMinutesDown": {}
   },
   {
@@ -67,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 237,
-    "timeWeek": 386,
-    "timeMonth": 263,
-    "timeYear": 263,
+    "time": 259,
+    "timeDay": 201,
+    "timeWeek": 358,
+    "timeMonth": 259,
+    "timeYear": 259,
     "dailyMinutesDown": {}
   }
 ]
